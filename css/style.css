@@ -115,13 +115,13 @@ h3.post-box-title, h3.card-title {
     color: #ccc;
     padding: 10px;
 }
-#toTop{
+#bTt{
 	position: fixed;
 	bottom: 10px;
 	right: 10px;
 	cursor: pointer;
 	display: none;
 }
-#toTop:hover {
+#bTt:hover {
 	opacity: 1;
 }
